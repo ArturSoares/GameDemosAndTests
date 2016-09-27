@@ -1,0 +1,2 @@
+C:\projects\BouncingGame\BouncingGame\BouncingGame.WP81\BouncingGame.WP81.csproj;neutral
+C:\projects\BouncingGame\BouncingGame\BouncingGame\BouncingGame.csproj;neutral

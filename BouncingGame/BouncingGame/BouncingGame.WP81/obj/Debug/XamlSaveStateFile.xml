@@ -1,0 +1,22 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\projects\bouncinggame\bouncinggame\bouncinggame.wp81\obj\debug\intermediatexaml\bouncinggame.wp81.exe" HashGuid="2f123521-3f77-8f85-6a40-6d097de032d0" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\bouncinggame\bouncinggame\bin\debug\bouncinggame.dll" HashGuid="a16abcad-48da-4724-7623-55a09033bed3" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.1.7.0.0-pre1\lib\wpa81\box2d.dll" HashGuid="d4680c84-6333-3bb2-7e1d-c2d3b566c72f" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.1.7.0.0-pre1\lib\wpa81\cocossharp.dll" HashGuid="407ff9cd-a4d6-e3ac-4fb5-9e33b11331a6" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.forms.1.7.0.0-pre1\lib\wpa81\cocossharp.forms.dll" HashGuid="1e414a0f-03d1-8b18-a06e-637e4531544a" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.1.7.0.0-pre1\lib\wpa81\monogame.framework.dll" HashGuid="b4e6bf78-f496-aae8-aa75-d808daaa7d06" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.1.7.0.0-pre1\lib\wpa81\monogame.framework.net.dll" HashGuid="7705648e-aab8-2cf8-435c-cb865f777afe" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.1.7.0.0-pre1\lib\wpa81\sharpdx.direct2d1.dll" HashGuid="7408bd93-06cc-d655-c019-72d87c26cf5f" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.1.7.0.0-pre1\lib\wpa81\sharpdx.direct3d11.dll" HashGuid="9ac0db88-9d70-8ec5-c2fa-0f2f104e3503" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.1.7.0.0-pre1\lib\wpa81\sharpdx.dll" HashGuid="e009d276-7a26-5428-86eb-dfc5676c65f6" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.1.7.0.0-pre1\lib\wpa81\sharpdx.dxgi.dll" HashGuid="6e8a8b65-ece7-ebe3-a84e-056f85487216" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.1.7.0.0-pre1\lib\wpa81\sharpdx.mediafoundation.dll" HashGuid="6cae9649-0f55-d9a2-eaf0-c3f148479668" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\cocossharp.1.7.0.0-pre1\lib\wpa81\sharpdx.xaudio2.dll" HashGuid="8da10cb8-4a59-bc33-9367-5ca535237fa4" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\xamarin.forms.1.5.0.6447\lib\wpa81\xamarin.forms.core.dll" HashGuid="7fe0beab-73fa-b0ee-7301-cfe87e92912e" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\xamarin.forms.1.5.0.6447\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\xamarin.forms.1.5.0.6447\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="7b7bf577-02c9-364a-819f-77143e76c477" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\xamarin.forms.1.5.0.6447\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f4791380-4614-eb08-592a-efac18501fc3" />
+    <ReferenceAssembly PathName="c:\projects\bouncinggame\packages\xamarin.forms.1.5.0.6447\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="3838ccba-838e-e369-f88c-f21aedc9464f" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
